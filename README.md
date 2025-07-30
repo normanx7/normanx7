@@ -1,4 +1,9 @@
-## Hi there 👋
+Perfil de Github en construcción.
+
+Hola, Soy Norman Soy Desarrollador de Software en formación.
+
+🔧 Tecnologías en uso:
+HTML CSS JavaScript Python MySQL
 
 <!--
 **normanx7/normanx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
